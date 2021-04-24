@@ -5,6 +5,7 @@ This respitory is a analysis of multiple cryptocurrencies for an investment bank
 3D-Scatter with the PCA
 
 hvplot.scatter plot
+![](images/hvplotscatterplot.png)
 
 ### Resources 
 Python (Pandas, Numpy, Skikit learn, StandardScaler, etc.)
